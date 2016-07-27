@@ -1,0 +1,507 @@
+@charset "gb2312";
+.clashot { 
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+ 
+
+
+/* CSS Document */
+
+#game_con1{width:980px; overflow:hidden;}
+#game_con1_left {
+	width:724px;
+	margin-right:1px;
+	float:left;
+	border:1px solid #CCC;
+	margin-top:5px;
+	display:inline;
+}
+
+#game_con1_left_title1 {
+	width:724px;
+	height:32px;
+	text-indent:20px;
+	color:#03C;
+	font-weight:bold;
+	line-height:32px;
+	font-size:15px;
+	background-image: url('images/bg.jpg');
+	background-repeat: repeat-x;
+	background-position: left -612px;
+}
+
+
+#game_title {
+	width:724px;
+	height:32px;
+	text-indent:20px;
+	color:#0B6AB9;
+	font-weight:bold;
+	line-height:32px;
+	font-size:15px;
+	background-image: url('images/bg.jpg');
+	background-repeat: repeat-x;
+	background-position: left -612px;
+}
+
+
+#pin1{ width:715px; padding:0 0 0 5px; margin-top:2px; margin-bottom:5px; clear:both; overflow:hidden;}
+#pin1_img1{
+	width:200px;
+	margin-top:0px;
+	padding:0px;
+	overflow:hidden;
+	float: left;
+	text-align: center;
+}
+
+#pin1_img1 img {
+	width:150px;
+ 
+}
+
+
+#pin1_text1{
+	width:500px;
+	float:right;
+	overflow:hidden;
+	margin: 0px;
+	padding: 0px;
+}
+
+#tt{ line-height:2.4em; margin:0; padding:0; clear:both; display:block;}
+#tt b{
+	font-size: 12px;
+	color: #F00;
+	background-color: #F30;
+	display: block;
+	float: right;
+	height: 20px;
+	line-height: 20px;
+	font-family: "微软雅黑", "宋体";
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	margin-right: 10px;
+}
+#tt b a {
+	color: #FFF;
+}
+
+
+.content_con_top{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #f2f2f2; 
+    padding-top:1px;
+}
+.content_con_top p{ width:250px; display:block; float:left; line-height:25px; height:25px; overflow:hidden; margin:0; padding:0;}
+.content_con_top1{
+	 padding:5px;
+	 overflow:hidden;
+}
+.content_con_top1 p{ width:240px; display:block; float:left; line-height:2.4em; margin:0; padding:0;}
+.text a {
+	border:0px;
+}
+
+.content_con_top div {
+	 
+	clear:both;
+}
+#yk {
+	clear: both;
+ 	margin: 2px;
+}
+
+
+.ul_Address h3 {
+	text-decoration: none;
+	color:#6F3609;
+	font-size:12px;
+	height:15px;
+	line-height:15px;
+	width: 670px;
+	clear:both;
+	overflow:hidden;
+	display:inline;
+	float:left;
+	margin-top:10px;
+	border:1px solid #FFD46E;
+	background-color:#FFFADA;
+	margin-bottom:8px;
+	text-indent:10px;
+	margin-left:20px;
+	padding-top:6px;
+}
+
+
+#shang {
+	width: 350px;
+	height:50px;
+	float:left;
+	line-height:50px;
+}
+#shang a {
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+}
+
+
+
+.content_con_top p a {
+	color:#666;
+	text-decoration: none;
+}
+
+
+
+
+.tt{ line-height:2.4em; margin:0; padding:0; clear:both; display:block;}
+.thunder_li img {
+}
+
+#toupiao {
+	float: left;
+	width: 200px;
+	height: 40px;
+	color: #666666;
+}
+#toupiao1 {
+	text-indent: 20px;
+	line-height: 20px;
+}
+
+#toupiao2 {
+	overflow: hidden;
+	height: 20px;
+	width: 180px;
+	padding-left:10px;
+}
+.address_like a {
+	color: #333;
+}
+.thunder_li  {
+	background-image: url('images/xl.jpg');
+	height: 20px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left center;
+	line-height: 20px;
+	width:180px;
+	padding-left: 15px;
+	margin-left:20px;
+	margin-right:20px;
+	
+	float:left;
+	list-style-type: none;
+	text-indent: 10px;
+	font-size: 14px;
+	font-weight: bold;
+	overflow:hidden;
+}
+
+.span_2 {
+	line-height: 5px;
+	height: 5px;
+	width: 100px;
+	border: 1px solid #009900;
+	float: left;
+	margin-top: 5px;
+	
+}
+.span_3 {
+	float: right;
+	width: 50px;
+}
+.thunder_li a {
+	color: #333;
+}
+
+.span_4 {
+	line-height: 5px;
+	height: 5px;
+	width: 100px;
+	border: 1px solid #999999;
+	float: left;
+	margin-top: 5px;
+}
+
+
+/*xiangxi*/
+.back{
+	height:30px;
+	font-weight:bold;
+	text-indent:10px;
+	color:#333;
+	line-height:30px;
+	overflow:hidden;
+	display:block;
+	clear: both;
+	background-image: url('img/game_bj.png');
+	background-repeat: repeat-x;
+	font-size:12px;
+}
+
+
+
+.text1{
+	clear:both;
+	overflow:hidden;
+	text-align: left;
+}
+#tt a {
+	color: #666;
+	text-decoration: none;
+}
+
+.text p {
+	margin:0;
+	padding:0;
+	line-height:2em;
+	font-size:14px;
+ 
+}
+
+.text a{
+	color:#00F;
+}
+#content_buttom {
+	clear: both;
+	float:left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.ul_Address {
+	padding: 5px;
+	margin:0px;
+	overflow: hidden;
+	display:inline;
+}
+.ul_Address a{color:#00F;text-decoration: none;}
+
+#game_con1_right{
+	width:247px;
+	float:right;
+	margin-left:2px;
+	margin-top:5px;
+	overflow:hidden;
+}
+#right1{
+	margin-top:5px;
+	margin-bottom:5px;
+	overflow:hidden;
+}
+ 
+
+.content_right_img{ width:220px; height:auto; padding:10px; border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #eaf4fd; margin-bottom:5px; }
+.img_content{ width:150px; height:auto; padding:3px; border:#cccccc 1px solid; margin-left:25px; margin-bottom:5px; }
+.content_right_img span{ text-align:center; display:block;}
+.content_right_img a{ color:#000000; text-decoration:none; }
+.content_right_img a:hover{ color:#FF0000; text-decoration:underline;}
+
+
+#game_con1_left #back h2 {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.xuanfeng {
+	background-image: url('images/bd.jpg');
+	height: 20px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left center;
+	line-height: 20px;
+	width:180px;
+	padding-left: 15px;
+	
+	float:left;
+	list-style-type: none;
+	text-indent: 10px;
+	font-size: 14px;
+	font-weight: bold;
+	overflow:hidden;
+}
+.address_like {
+	background-image: url('images/xiao1.jpg');
+	height: 20px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left center;
+	line-height: 20px;
+	width:180px;
+	padding-left: 15px;
+	margin-left:20px;
+	float:left;
+	list-style-type: none;
+	text-indent: 10px;
+	font-size: 14px;
+	overflow:hidden;
+
+}
+.xian {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+	clear:both;
+	margin-left:10px;
+	margin-right:10px;
+	height:1px;
+	line-height:1px;
+}
+
+
+
+.kuaiche {
+	background-image: url('images/kc.jpg');
+	height: 20px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: left center;
+	line-height: 20px;
+	width:190px;
+	padding-left: 15px;
+	
+	float:left;
+	list-style-type: none;
+	text-indent: 10px;
+	font-size: 14px;
+	font-weight: bold;
+	overflow:hidden;
+}
+ 
+.keyText {
+	background-color: #FFECDF;
+	border: 1px solid #F90;
+	line-height: 25px;
+	padding: 5px;
+	font-size: 14px;
+	margin: 5px;
+    display:none;
+}
+#download {
+	overflow: hidden;
+	height: 60px;
+	width: 200px;
+	padding-left: 20px;
+	float: left;
+}
+ #download a,#download a:visited  {
+	background-image: url('images/download.jpg');
+	float: left;
+	height: 60px;
+	width: 200px;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#download a span {
+	//color: #FC0;
+    color: #000;
+	margin-top: 5px;
+	float: left;
+	margin-left: 60px;
+	font-weight: bold;
+	cursor:pointer;
+}
+
+ #download a:hover {
+	background-image: url('images/download.jpg');
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+	height: 60px;
+	width: 200px;
+}
+#pin1_img1 a img {
+	border: 1px solid #999;
+	padding: 2px;
+}
+#download_right {
+	float: right;
+	width: 480px;
+}
+
+#pin1_img1 a:hover img {
+	padding: 2px;
+	border: 2px solid #F30;
+}
+ 
+.text {
+	margin: 10px;
+}
+
+.text p {
+	margin: 10px 0;
+}
+#GameImg h3 {
+	line-height: 30px;
+	background-image: url('img/game_pic_bj.png');
+	height: 30px;
+	background-repeat: repeat-x;
+	color: #F30;
+	font-size: 12px;
+	font-weight: normal;
+	text-indent: 10px;
+}
+#GameImg img {
+	display: block;
+	margin: 10px;
+	padding: 2px;
+	border: 1px solid #CCC;
+}
+
+#GameImg {
+	overflow: hidden;
+	width: 724px;
+}
+
+.right_ad {
+	width: 247px;
+	overflow: hidden;
+}
+
+
+
+
+.list_P {
+	color: #FFFFFF;
+	font-family: "arial";
+	left: 2px;
+	line-height: 18px;
+	padding-left: 8px;
+	position: absolute;
+	text-align: left;
+	top: 107px;
+	width: 142px;
+	z-index: 3;
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-image: url('img/listbj.png');
+	_background:none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop , src="/skin/img/listbj.png");
+}
+
+.list_P span{
+	float:right;
+	margin-right:5px;
+}
+
+.list_shuxing em{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #390;
+	font-weight: bold;
+	float:right;
+	padding-right:5px;
+	font-size:14px;
+}
+
+.list_shuxing b{
+	color: #06C;
+	font-weight: normal;
+}

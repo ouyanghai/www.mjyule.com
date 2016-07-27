@@ -9,16 +9,6 @@
 <link href="/skin/head.css"  rel="stylesheet" type="text/css" />
 <link href="/skin/index.css"  rel="stylesheet" type="text/css" />
 <script src="/ks_inc/jquery.js" type="text/javascript"></script>
-<script type="text/JavaScript">
-      if(/Android|webOS|iPhone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent)){
-          var url=window.location.href;
-          if(url.indexOf("?mobile")<0){
-              try{
-                  window.location.href='http://m.jucanw.com/';
-              }catch(e){}
-          }
-      }
-</script>
 </head>
 <body>
 <!--   淘宝广告弹窗 start -->

@@ -1,5 +1,4 @@
-<?php 
-include("/header.php");
+<?php include("./header.php");
 $food_id = !empty($_GET['food_id'])&&is_numeric($_GET['food_id'])?$_GET['food_id']:0;
 $sql = "select content from `food_menu` where food_id={$food_id}";
 $res = mysql_query($sql);
@@ -16,4 +15,4 @@ $row = mysql_fetch_assoc($res);
 </div>
 
 
-<?php include("/footer.php") ?>
+<?php include("./footer.php") ?>

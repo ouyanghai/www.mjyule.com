@@ -1,3 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>家常菜做法大全有图_简单好吃家常菜的做法_菜谱大全带图片_美食家</title>
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.jucanw.com/" />
+<meta name="Keywords" content="家常菜做法大全,简单家常菜做法大全,好吃的家常菜做法,菜谱大全" />
+<meta name="Description" content="美食家最受欢迎的美食做法咨询网站，专业的养生食谱网教你如何做出简单好吃的家常菜及地方特色小吃，美食视频对所有家常菜谱进行DIY视频讲解。" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/skin/head.css"  rel="stylesheet" type="text/css" />
+<link href="/skin/index.css"  rel="stylesheet" type="text/css" />
+<link href="/skin/list.css"  rel="stylesheet" type="text/css" />
+<link href="/skin/game.css"  rel="stylesheet" type="text/css" />
+<link href="/skin/wenzhang.css"  rel="stylesheet" type="text/css" />
+<link href="/skin/wenzhang.css"  rel="stylesheet" type="text/css" />
+<script src="/ks_inc/jquery.js" type="text/javascript"></script>
+<script type="text/javascript" src="/skin/js/fxxz.js" ></script>
+</head>
 <?php
 $fid = array(
 	'ylys'=>'养生食谱',
@@ -19,43 +35,6 @@ mysql_select_db("web",$command);
 mysql_query("set names 'utf8'");
 ?>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>家常菜做法大全有图_简单好吃家常菜的做法_菜谱大全带图片_美食家</title>
-<meta http-equiv="mobile-agent" content="format=html5; url=http://m.jucanw.com/" />
-<meta name="Keywords" content="家常菜做法大全,简单家常菜做法大全,好吃的家常菜做法,菜谱大全" />
-<meta name="Description" content="美食家最受欢迎的美食做法咨询网站，专业的养生食谱网教你如何做出简单好吃的家常菜及地方特色小吃，美食视频对所有家常菜谱进行DIY视频讲解。" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="/skin/head.css"  rel="stylesheet" type="text/css" />
-<link href="/skin/index.css"  rel="stylesheet" type="text/css" />
-<link href="/skin/list.css"  rel="stylesheet" type="text/css" />
-<link href="/skin/game.css"  rel="stylesheet" type="text/css" />
-<link href="/skin/wenzhang.css"  rel="stylesheet" type="text/css" />
-<link href="/skin/wenzhang.css"  rel="stylesheet" type="text/css" />
-<script src="/ks_inc/jquery.js" type="text/javascript"></script>
-<script type="text/javascript" src="/skin/js/fxxz.js" ></script>
-<script type="text/JavaScript">
-	    if(/Android|webOS|iPhone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent)){
-	        var url=window.location.href;
-	        if(url.indexOf("?mobile")<0){
-	            try{
-	                window.location.href='http://m.jucanw.com/';
-	            }catch(e){}
-	        }
-	    }
-	var murl=window.location.href;
-            murl = murl.replace("www","m");
-	    if(/Android|webOS|iPhone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent)){
-	        var url=window.location.href;
-	        if(url.indexOf("?mobile")<0){
-	            try{
-	                window.location.href=murl;
-	            }catch(e){}
-	        }
-	    }
-
-</script>
-</head>
 <body>
 	<script src="/ks_inc/common.js" type="text/javascript"></script>
 	<div id="head_top"> 

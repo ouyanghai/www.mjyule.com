@@ -30,10 +30,10 @@ $p_page = ($page-1)>0?$page-1:1;
 
 	<div class="List_like"> 
 	  	<div id="list_img" style="background: url(/up/2011-8/2011810163632.jpg) no-repeat scroll">
-	     	<a href="/detail.php?food_id=<?php echo $row['food_id'].'&f_type={$f_type}' ?>" target="_blank"><img src="<?php echo $row['food_pic'] ?>"  width="170" border="0" height="140" alt="<?php echo $row['food_name'] ?>"></a>
+	     	<a href="/detail.php?food_id=<?php echo $row['food_id'].'&f_type='.$f_type ?>" target="_blank"><img src="<?php echo $row['food_pic'] ?>"  width="170" border="0" height="140" alt="<?php echo $row['food_name'] ?>"></a>
 	  	</div>
 	   	<div id="list_text">
-	   		<span><a href="/detail.php?food_id=<?php echo $row['food_id'].'&f_type={$f_type}' ?>" target="_blank"><?php echo $row['food_name'] ?></a> </span>   
+	   		<span><a href="/detail.php?food_id=<?php echo $row['food_id'].'&f_type='.$f_type ?>" target="_blank"><?php echo $row['food_name'] ?></a> </span>   
 	   	</div>
 	   	<div id="list_shuxing">
 	           <em>0</em>   时间:<b><?php echo $row['create_time'] ?></b>  类型:<b><?php echo $row['food_type'] ?></b>   
